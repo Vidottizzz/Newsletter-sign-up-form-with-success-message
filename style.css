@@ -1,0 +1,11 @@
+.attribution { 
+    font-size: 12px; text-align: center;
+ }
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
+.card {
+ width: 10rem;
+ height: 20rem;
+ background-color: aqua;
+}
